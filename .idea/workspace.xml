@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81bb62a3-69fc-4dc1-bf28-565ad22458f3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TRANS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BL/UTIL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/TransDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ent/TRANSLATE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mainDo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/TransService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/test.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TRANS" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\Programmirovanie\TRANS" />
+        <option value="F:\Programmirovanie\TRANS\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W5EahrZ1b6GBc55UIzftx7MrwV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager">
+    <configuration name="mainDo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mainDo" />
+      <module name="TRANS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.mainDo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81bb62a3-69fc-4dc1-bf28-565ad22458f3" name="Default Changelist" comment="" />
+      <created>1578431120465</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578431120465</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2365" y="227" key="#com.intellij.ide.util.MemberChooser" timestamp="1578588351574">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="2365" y="227" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1280.1024@1920.0.1280.1024" timestamp="1578588351574" />
+    <state x="2290" y="434" key="DBNavigator.CreateRenameConsoleDialog" timestamp="1578595528078">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="2290" y="434" key="DBNavigator.CreateRenameConsoleDialog/0.0.1920.1040/1920.0.1280.1024@1920.0.1280.1024" timestamp="1578595528078" />
+    <state x="2090" y="166" key="DBNavigator.ProjectSettingsDialog" timestamp="1578471548402">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="2090" y="166" key="DBNavigator.ProjectSettingsDialog/0.0.1920.1040/1920.0.1280.1024@1920.0.1280.1024" timestamp="1578471548402" />
+    <state x="2340" y="266" key="FileChooserDialogImpl" timestamp="1578471519013">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="2340" y="266" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.1024@1920.0.1280.1024" timestamp="1578471519013" />
+    <state x="2430" y="404" key="Github.ShareDialog" timestamp="1580415435747">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="2430" y="404" key="Github.ShareDialog/0.0.1920.1040/1920.0.1280.1024@1920.0.1280.1024" timestamp="1580415435747" />
+    <state x="2383" y="216" key="Github.UntrackedFilesDialog" timestamp="1580414727071">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="2383" y="216" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.0.1280.1024@1920.0.1280.1024" timestamp="1580414727071" />
+    <state width="1236" height="272" key="GridCell.Tab.0.bottom" timestamp="1579960629093">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1236" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.1024@1920.0.1280.1024" timestamp="1579960629093" />
+    <state width="1236" height="272" key="GridCell.Tab.0.center" timestamp="1579960629093">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1236" height="272" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.1024@1920.0.1280.1024" timestamp="1579960629093" />
+    <state width="1236" height="272" key="GridCell.Tab.0.left" timestamp="1579960629093">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1236" height="272" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.1024@1920.0.1280.1024" timestamp="1579960629093" />
+    <state width="1236" height="272" key="GridCell.Tab.0.right" timestamp="1579960629093">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1236" height="272" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.1024@1920.0.1280.1024" timestamp="1579960629093" />
+    <state x="2040" y="85" key="SettingsEditor" timestamp="1580414808442">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="2040" y="85" key="SettingsEditor/0.0.1920.1040/1920.0.1280.1024@1920.0.1280.1024" timestamp="1580414808442" />
+    <state x="2110" y="234" key="Vcs.Push.Dialog.v2" timestamp="1580415460126">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="2110" y="234" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1280.1024@1920.0.1280.1024" timestamp="1580415460126" />
+    <state x="2255" y="334" key="com.intellij.ide.util.TipDialog" timestamp="1580414204331">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="2255" y="334" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1280.1024@1920.0.1280.1024" timestamp="1580414204331" />
+    <state x="2290" y="266" key="extract.method.dialog" timestamp="1578584761203">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="2290" y="266" key="extract.method.dialog/0.0.1920.1040/1920.0.1280.1024@1920.0.1280.1024" timestamp="1578584761203" />
+    <state x="2266" y="139" key="refactoring.ChangeSignatureDialog" timestamp="1578595051113">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="2266" y="139" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/1920.0.1280.1024@1920.0.1280.1024" timestamp="1578595051113" />
+    <state x="2223" y="221" width="672" height="678" key="search.everywhere.popup" timestamp="1578431884975">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="2223" y="221" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1280.1024@1920.0.1280.1024" timestamp="1578431884975" />
+    <state x="2282" y="423" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1579959367291">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="2282" y="423" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040/1920.0.1280.1024@1920.0.1280.1024" timestamp="1579959367291" />
+  </component>
+</project>
