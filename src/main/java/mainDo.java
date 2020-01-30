@@ -14,7 +14,7 @@ public class mainDo {
 
 
     // input words in DB
-
+   // input 
     boolean mainCheck = true;
     String addSymbol = "add";
     String getAll = "getAll";

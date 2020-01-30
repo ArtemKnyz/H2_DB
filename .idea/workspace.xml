@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81bb62a3-69fc-4dc1-bf28-565ad22458f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TRANS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BL/UTIL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dao/TransDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ent/TRANSLATE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mainDo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/TransService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/test.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mainDo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mainDo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +58,7 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="mainDo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -110,13 +97,29 @@
       <option name="presentableId" value="Default" />
       <updated>1578431120465</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit H2">
+      <created>1580415592608</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580415592608</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit H2" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit H2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2365" y="227" key="#com.intellij.ide.util.MemberChooser" timestamp="1578588351574">
       <screen x="1920" y="0" width="1280" height="1024" />
     </state>
     <state x="2365" y="227" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1280.1024@1920.0.1280.1024" timestamp="1578588351574" />
+    <state x="2214" y="105" key="CommitChangelistDialog2" timestamp="1580415591621">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="2214" y="105" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1280.1024@1920.0.1280.1024" timestamp="1580415591621" />
     <state x="2290" y="434" key="DBNavigator.CreateRenameConsoleDialog" timestamp="1578595528078">
       <screen x="1920" y="0" width="1280" height="1024" />
     </state>
@@ -153,10 +156,10 @@
       <screen x="1920" y="0" width="1280" height="1024" />
     </state>
     <state width="1236" height="272" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.1024@1920.0.1280.1024" timestamp="1579960629093" />
-    <state x="2040" y="85" key="SettingsEditor" timestamp="1580414808442">
+    <state x="2040" y="85" key="SettingsEditor" timestamp="1580416269976">
       <screen x="1920" y="0" width="1280" height="1024" />
     </state>
-    <state x="2040" y="85" key="SettingsEditor/0.0.1920.1040/1920.0.1280.1024@1920.0.1280.1024" timestamp="1580414808442" />
+    <state x="2040" y="85" key="SettingsEditor/0.0.1920.1040/1920.0.1280.1024@1920.0.1280.1024" timestamp="1580416269976" />
     <state x="2110" y="234" key="Vcs.Push.Dialog.v2" timestamp="1580415460126">
       <screen x="1920" y="0" width="1280" height="1024" />
     </state>
@@ -165,6 +168,10 @@
       <screen x="1920" y="0" width="1280" height="1024" />
     </state>
     <state x="2255" y="334" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1280.1024@1920.0.1280.1024" timestamp="1580414204331" />
+    <state x="2369" y="428" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580415624418">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="2369" y="428" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1280.1024@1920.0.1280.1024" timestamp="1580415624418" />
     <state x="2290" y="266" key="extract.method.dialog" timestamp="1578584761203">
       <screen x="1920" y="0" width="1280" height="1024" />
     </state>
